@@ -1,0 +1,13 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.0.4
+dnspython==2.2.1
+Flask==2.0.3
+idna==3.3
+Jinja2==3.0.3
+pyTelegramBotAPI==4.4.0
+requests==2.27.1
+urllib3==1.26.9
+Werkzeug==2.0.3
+pandas
+gunicorn
